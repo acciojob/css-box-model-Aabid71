@@ -1,2 +1,16 @@
 
+
+.upeer{
+
+    background-color:lightblue;
+    margin: 20px;
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-items: center;
+    padding: 50px;
+   border: solid blue 15px;
+   margin: 20px;
+}
+
 /* Your CSS Code here. */
